@@ -33,7 +33,7 @@
   "author": "Arnout Kazemier",
   "license": "MIT",
   "dependencies": {
-    "querystringify": "^2.1.1",
+    "querystringify": "git+ssh://git@github.com:muralikg/querystringify.git",
     "requires-port": "^1.0.0"
   },
   "devDependencies": {
